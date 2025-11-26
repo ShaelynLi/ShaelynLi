@@ -5,8 +5,7 @@
   *(Tech: FastAPI, Google Cloud Run, Docker, GPS & barcode integration)*
 - 💬 Created **[AI Chatterbox](https://github.com/ShaelynLi/ai-chatterbox)** – An AI chatbot that sparks curiosity with creative “What If?” questions  
   *(Tech: React + Node.js + MongoDB, LLM prompt engineering, content safety controls)*
-- 🔧 Also built: real-time collaborative whiteboard, high-concurrency dictionary server, cloud-native traffic analytics platform, autonomous Kobuki robot, FPGA timer, earthquake monitor, Pac-Man game, and automatic pet feeder — spanning distributed systems, embedded design, AI, and full-stack development.
-- 👩‍💻 Full-stack engineer with a product mindset, experienced in cloud-native backends, scalable architectures, and AI-augmented applications
+- 🔧 Explored diverse engineering challenges through projects like: real-time collaborative whiteboard, high-concurrency dictionary server, cloud-native traffic analytics platform, autonomous Kobuki robot, FPGA timer, earthquake monitor, Pac-Man game, and automatic pet feeder — spanning distributed systems, embedded design, AI, and full-stack development.
 - 📫 Reach me at **shaelynli@outlook.com** | [LinkedIn](https://linkedin.com/in/yiyao-li-shaelyn)
 
 <h3 align="left">Languages and Tools:</h3>
