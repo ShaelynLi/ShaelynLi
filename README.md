@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yiyao Li (Shaelyn)</h1>
 <h3 align="center">MSc in Computer Science (Distributed Systems) @ The University of Melbourne<br>BEng in Electrical and Electronic Engineering @ The University of Melbourne<br>Exchange Student in Electrical Engineering @ Peking University & The University of Hong Kong</h3>
 
-- 🚀 Building **[FitQuest](https://github.com/ShaelynLi/fitquest)** – A gamified health app that turns workouts into virtual pet adventures 🐾  
+- 🚀 Created **[FitQuest](https://github.com/ShaelynLi/fitquest)** – A gamified health app that turns workouts into virtual pet adventures  
   *(Tech: FastAPI, Google Cloud Run, Docker, GPS & barcode integration)*
 - 💬 Created **[AI Chatterbox](https://github.com/ShaelynLi/ai-chatterbox)** – An AI chatbot that sparks curiosity with creative “What If?” questions  
   *(Tech: React + Node.js + MongoDB, LLM prompt engineering, content safety controls)*
