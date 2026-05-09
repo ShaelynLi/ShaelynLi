@@ -9,49 +9,23 @@
 - 📫 Reach me at **shaelynli@outlook.com** | [LinkedIn](https://linkedin.com/in/yiyao-li-shaelyn)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=anaconda" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=arduino" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=azure" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=c" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=cs" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=django" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=electron" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=flask" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=go" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=illustrator" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=matlab" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=opencv" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=swift" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=xd" width="40" height="40"/>
-</p>
+
+<table align="left">
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48"/><br>Anaconda</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48"/><br>Android</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48"/><br>Arduino</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/><br>Azure</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48"/><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48"/><br>K8s</td>
+  </tr>
+  <!-- 继续添加更多行 -->
+</table>
