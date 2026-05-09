@@ -57,7 +57,7 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48"/><br>OpenCV</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/><br>Oracle</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/><br>Pandas</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48"/><br>Photoshop</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/><br>Vue.js</td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" height="48"/><br>Python</td>
@@ -66,9 +66,5 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48"/><br>Spring</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=swift" width="48" height="48"/><br>Swift</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br>TensorFlow</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vue" width="48" height="48"/><br>Vue.js</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=xd" width="48" height="48"/><br>XD</td>
   </tr>
 </table>
